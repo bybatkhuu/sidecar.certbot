@@ -1,4 +1,4 @@
-ARG BASE_IMAGE=python:3.9.16-slim-bullseye
+ARG BASE_IMAGE=python:3.12.0b3-slim-bullseye
 
 # Here is the production image
 # hadolint ignore=DL3006
